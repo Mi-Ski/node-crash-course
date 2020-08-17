@@ -32,7 +32,7 @@ const server = http.createServer((req, res) => {
         res.end('<h1 style="text-align: center; margin-top: 45vh;     background: linear-gradient(81deg, #36ffcb, #f674fd, #13b5f3); color: white;"><em>this is the PRODUCTS page!</em><h1>');
     } else {
         res.writeHead(200, { 'Content-type': 'text/html' });
-        res.end('<div style="text-align: center; margin-top: 45vh;"><h1>404</h1> poopy brain (stink!)</div>')
+        res.end('<div style="text-align: center; margin-top: 45vh;"><h1>404</h1>not found</div>')
     }
 });
 
