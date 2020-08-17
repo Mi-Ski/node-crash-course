@@ -1,0 +1,26 @@
+{
+  "editor.mouseWheelZoom": true,
+
+  "workbench.colorCustomizations": {
+    // "statusBar.background": "#333333",
+    // "statusBar.noFolderBackground": "#333333",
+    // "statusBar.debuggingBackground": "#263238",
+    //"editor.background": "#1a1d20",
+
+    // "editor.lineHighlightBackground": "#141414",
+    // "tab.activeBackground": "#141414",
+    // "tab.inactiveBackground": "#2b2b2b",
+    // "tab.hoverBackground": "#3d3d3d",
+    // "sideBar.background": "#141414",
+    // "activityBar.background": "#1a1d20",
+    // "breadcrumb.background": "#181818",
+    // "dropdown.background": "#141414",
+    // "editorSuggestWidget.background": "#141414",
+    // "panel.background": "#141414",
+  },
+  "editor.tokenColorCustomizations": {
+    "[NotepadPlusPlus Remixed Theme]": {
+      "comments": "#a7a7a7"
+    }
+},
+}
